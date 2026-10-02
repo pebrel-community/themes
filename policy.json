@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "max_catalog_bytes": 1048576,
+  "max_entries": 1000,
+  "max_video_bytes": 33554432,
+  "max_total_video_bytes": 33554432,
+  "max_archive_bytes": 50331648,
+  "max_unpacked_bytes": 67108864
+}
