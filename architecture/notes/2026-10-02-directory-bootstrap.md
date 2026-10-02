@@ -2,7 +2,7 @@
 
 ## Status
 
-Prepared for initial repository publication; application integration is pending.
+Metadata directory implemented and published; application integration is pending.
 
 ## Context
 
@@ -44,8 +44,10 @@ branch protection.
 
 ## Validation
 
-The validator and its positive/negative tests run offline with standard-library
-Python. Initial publication and hosted workflow results require separate checks.
+The offline validator and all eight positive/negative tests passed with
+standard-library Python. Initial hosted catalog validation also passed in
+[run 36978107487](https://github.com/pebrel-community/themes/actions/runs/36978107487).
+This is metadata validation, not installer, decoding, or playback validation.
 
 ## Supersedes
 

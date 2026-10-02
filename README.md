@@ -11,6 +11,9 @@ claimed as shipped application features by this repository.
 
 ## Share a theme
 
+Show your work in [Show and tell](https://github.com/pebrel-community/themes/discussions/categories/show-and-tell),
+or open a [theme submission](https://github.com/pebrel-community/themes/issues/new?template=share-theme.yml).
+
 Publish the ZIP in your own GitHub Release, then submit one entry to
 [`catalog/index.json`](catalog/index.json). Keep the assets in your release;
 do not commit videos or theme ZIPs to this repository.

@@ -11,6 +11,9 @@
 
 ## 如何分享
 
+可以先在 [作品展示](https://github.com/pebrel-community/themes/discussions/categories/show-and-tell)
+发布预览和来源，或填写 [主题分享表单](https://github.com/pebrel-community/themes/issues/new?template=share-theme.yml)。
+
 1. 在自己的 GitHub 仓库说明作品、作者、原作来源和素材许可。
 2. 发布一个固定版本的主题 ZIP，记录真实字节数与 SHA-256。
 3. 向 `catalog/index.json` 添加一条登记并提交 PR，字段见英文说明。

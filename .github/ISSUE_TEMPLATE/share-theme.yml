@@ -1,0 +1,56 @@
+name: Share a theme / 分享主题
+description: Share a theme, preview, author, and source / 提交主题作品、预览、作者与来源。
+title: '[Theme] '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Publish large assets in your own GitHub Release. Catalog review is separate from application compatibility.
+        素材放在作者 Release；单视频及视频合计上限 32 MiB，ZIP 上限 48 MiB，解压总量上限 64 MiB。
+  - type: input
+    id: name
+    attributes:
+      label: Theme name and version / 主题名与版本
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author / 作者
+      description: GitHub handle and original author if adapted / GitHub 身份；改编作品同时注明原作者。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source repository / 来源仓库
+    validations:
+      required: true
+  - type: textarea
+    id: release
+    attributes:
+      label: Release and sizes / 发布文件与体积
+      description: Versioned ZIP URL, SHA-256, ZIP bytes, uncompressed bytes, and total video bytes / 固定版本 ZIP 地址、校验值及三项实际字节数。
+    validations:
+      required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: Preview and effects / 预览与效果说明
+      description: Share previews and explain images, animation, video, or shaders / 展示预览并说明图片、动图、视频或 shader。
+    validations:
+      required: true
+  - type: textarea
+    id: license
+    attributes:
+      label: License and attribution / 许可与署名
+      description: Include permission for background media and adapted resources / 包括背景素材及改编资源的许可。
+    validations:
+      required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Tested compatibility / 实测兼容性
+      description: State versions/platforms actually tested, or explicitly say untested / 列出实际测试过的版本与平台，或明确说明未测试。
+    validations:
+      required: true
