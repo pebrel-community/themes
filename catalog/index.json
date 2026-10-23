@@ -192,6 +192,106 @@
         "dark",
         "ai-background"
       ]
+    },
+    {
+      "id": "xvshifu/firefly-silhouette",
+      "name": "星穹铁道 | 流萤·银羽剪影",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "LicenseRef-Personal-Use",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.1.0/firefly-silhouette.pebrel-theme.zip",
+        "sha256": "749631f1238567ca84c1d14414e5301cb6088575a45dd1794a905572fb5ff1c6",
+        "bytes": 2576111
+      },
+      "unpacked_bytes": 2575635,
+      "video_bytes": 0,
+      "description": "流萤同人静态主题；配置 MIT，角色图片不适用 CC0。来源与权利说明见源码 ATTRIBUTION.txt。背景由 AI 生成。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.1.0/themes/firefly-silhouette/preview.png",
+      "tags": [
+        "dark",
+        "static",
+        "firefly"
+      ]
+    },
+    {
+      "id": "xvshifu/firefly-mint-silhouette",
+      "name": "星穹铁道 | 流萤·薄荷银羽",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "LicenseRef-Personal-Use",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.1.0/firefly-mint-silhouette.pebrel-theme.zip",
+        "sha256": "43faa91ae7c64c80de39c0245796a2d962c1296807fe5043242e2c54b8ae888d",
+        "bytes": 2898054
+      },
+      "unpacked_bytes": 2897578,
+      "video_bytes": 0,
+      "description": "流萤同人静态主题；配置 MIT，角色图片不适用 CC0。来源与权利说明见源码 ATTRIBUTION.txt。背景由 AI 生成。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.1.0/themes/firefly-mint-silhouette/preview.png",
+      "tags": [
+        "light",
+        "static",
+        "firefly"
+      ]
+    },
+    {
+      "id": "xvshifu/firefly-mint-portrait",
+      "name": "星穹铁道 | 流萤·浅青萤光",
+      "version": "1.0.0",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "LicenseRef-Personal-Use",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.1.0/firefly-mint-portrait.pebrel-theme.zip",
+        "sha256": "93bf42cdcb9fe825d518839d9b5520685dd4babbf5168d9ffd39ac2664250699",
+        "bytes": 3295294
+      },
+      "unpacked_bytes": 3294818,
+      "video_bytes": 0,
+      "description": "流萤同人静态主题；配置 MIT，角色图片不适用 CC0。来源与权利说明见源码 ATTRIBUTION.txt。背景由 AI 生成。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.1.0/themes/firefly-mint-portrait/preview.png",
+      "tags": [
+        "light",
+        "static",
+        "firefly"
+      ]
+    },
+    {
+      "id": "xvshifu/firefly-cream-keepsake",
+      "name": "星穹铁道 | 流萤·掌心微光",
+      "version": "1.0.2",
+      "author": {
+        "name": "XVSHIFU",
+        "github": "XVSHIFU"
+      },
+      "source": "https://github.com/XVSHIFU/pebrel-themes",
+      "license": "LicenseRef-Personal-Use",
+      "archive": {
+        "url": "https://github.com/XVSHIFU/pebrel-themes/releases/download/v1.1.0/firefly-cream-keepsake.pebrel-theme.zip",
+        "sha256": "7a426f8b87280e59edd143c26b920da87b020668ec9f2b7213df147112816d54",
+        "bytes": 3615358
+      },
+      "unpacked_bytes": 3614882,
+      "video_bytes": 0,
+      "description": "流萤同人静态主题；配置 MIT，角色图片不适用 CC0。来源与权利说明见源码 ATTRIBUTION.txt。用户提供原图经 AI 扩图，原作者与许可未知，需维护者审核。",
+      "preview": "https://raw.githubusercontent.com/XVSHIFU/pebrel-themes/v1.1.0/themes/firefly-cream-keepsake/preview.png",
+      "tags": [
+        "light",
+        "static",
+        "firefly"
+      ]
     }
   ]
 }
