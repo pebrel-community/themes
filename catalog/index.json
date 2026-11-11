@@ -192,6 +192,54 @@
         "dark",
         "ai-background"
       ]
+    },
+    {
+      "id": "mistan-kh/grok-obsidian",
+      "name": "Grok Obsidian",
+      "version": "1.0.3",
+      "author": {
+        "name": "MistanKh",
+        "github": "MistanKh"
+      },
+      "source": "https://github.com/MistanKh/pebrel-grok-theme",
+      "license": "MIT",
+      "archive": {
+        "url": "https://github.com/MistanKh/pebrel-grok-theme/releases/download/v1.0.3/grok-obsidian.pebrel-theme.zip",
+        "sha256": "b9c83963160436ce5dd360043d8af7246d7124eef6ff4481a554358a3c88531f",
+        "bytes": 2290
+      },
+      "unpacked_bytes": 7702,
+      "video_bytes": 0,
+      "description": "Graphite chrome, an extra-dark tabs pane, softened ivory terminal text, and a single desaturated steel accent. Colors-only; tested with Pebrel 2.4.0 on Windows 11.",
+      "preview": "https://raw.githubusercontent.com/MistanKh/pebrel-grok-theme/v1.0.3/previews/grok-obsidian.png",
+      "tags": [
+        "dark",
+        "colors-only"
+      ]
+    },
+    {
+      "id": "mistan-kh/grok-parchment",
+      "name": "Grok Parchment",
+      "version": "1.0.0",
+      "author": {
+        "name": "MistanKh",
+        "github": "MistanKh"
+      },
+      "source": "https://github.com/MistanKh/pebrel-grok-theme",
+      "license": "MIT",
+      "archive": {
+        "url": "https://github.com/MistanKh/pebrel-grok-theme/releases/download/v1.0.0/grok-parchment.pebrel-theme.zip",
+        "sha256": "4b4467680f03915eee0ca32dafb76733e0051e8fd6d8f722c2a4dbcd5a0a47b1",
+        "bytes": 7950
+      },
+      "unpacked_bytes": 7704,
+      "video_bytes": 0,
+      "description": "Neutral paper chrome, muted syntax, and a single steel accent for light sessions. Colors-only; tested with Pebrel 2.4.0 on Windows 11.",
+      "preview": "https://raw.githubusercontent.com/MistanKh/pebrel-grok-theme/v1.0.0/previews/grok-parchment.png",
+      "tags": [
+        "light",
+        "colors-only"
+      ]
     }
   ]
 }
